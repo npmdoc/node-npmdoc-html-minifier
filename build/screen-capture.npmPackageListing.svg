@@ -1,15 +1,15 @@
 <svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="190" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  1.  2017-04-02 06:10:57 +0000     1071 byte  LICENSE</tspan>
-<tspan x="10" y="42">  2.  2017-04-02 06:10:57 +0000    12654 byte  README.md</tspan>
-<tspan x="10" y="58">  3.  2017-04-02 06:10:57 +0000    11493 byte  cli.js</tspan>
-<tspan x="10" y="74">  4.  2017-04-02 06:10:57 +0000     3667 byte  package.json</tspan>
-<tspan x="10" y="90">  5.  2017-04-02 06:10:57 +0000     1033 byte  sample-cli-config-file.conf</tspan>
-<tspan x="10" y="106">  6.  2017-04-02 06:10:57 +0000    42837 byte  src/htmlminifier.js</tspan>
-<tspan x="10" y="122">  7.  2017-04-02 06:10:57 +0000    14965 byte  src/htmlparser.js</tspan>
-<tspan x="10" y="138">  8.  2017-04-02 06:10:57 +0000     1813 byte  src/tokenchain.js</tspan>
-<tspan x="10" y="154">  9.  2017-04-02 06:10:57 +0000      423 byte  src/utils.js</tspan>
-<tspan x="10" y="170"> 10.  2017-04-02 06:10:57 +0000    89956 byte  .</tspan>
+<tspan x="10" y="26">  1.  2017-04-02 06:19:42 +0000     1071 byte  LICENSE</tspan>
+<tspan x="10" y="42">  2.  2017-04-02 06:19:42 +0000    12654 byte  README.md</tspan>
+<tspan x="10" y="58">  3.  2017-04-02 06:19:42 +0000    11493 byte  cli.js</tspan>
+<tspan x="10" y="74">  4.  2017-04-02 06:19:42 +0000     3667 byte  package.json</tspan>
+<tspan x="10" y="90">  5.  2017-04-02 06:19:42 +0000     1033 byte  sample-cli-config-file.conf</tspan>
+<tspan x="10" y="106">  6.  2017-04-02 06:19:42 +0000    42837 byte  src/htmlminifier.js</tspan>
+<tspan x="10" y="122">  7.  2017-04-02 06:19:42 +0000    14965 byte  src/htmlparser.js</tspan>
+<tspan x="10" y="138">  8.  2017-04-02 06:19:42 +0000     1813 byte  src/tokenchain.js</tspan>
+<tspan x="10" y="154">  9.  2017-04-02 06:19:42 +0000      423 byte  src/utils.js</tspan>
+<tspan x="10" y="170"> 10.  2017-04-02 06:19:42 +0000    89956 byte  .</tspan>
 </text>
 </svg>
